@@ -1,0 +1,15 @@
+{
+    "name": "nivstudios/php-mvc-core",
+    "description": "installable php mvc core for use in php mvc projects.",
+    "autoload": {
+        "psr-4": {
+            "Nivstudios\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngu Ivo"
+        }
+    ],
+    "require": {}
+}
